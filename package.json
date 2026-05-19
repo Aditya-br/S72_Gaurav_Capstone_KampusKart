@@ -12,7 +12,6 @@
     "backend"
   ],
   "scripts": {
-    "install": "npm install",
     "bootstrap": "npm install --workspaces",
     "dev": "concurrently \"npm --workspace backend run dev\" \"npm --workspace frontend run dev\"",
     "build": "npm run build --workspaces",
