@@ -3,7 +3,7 @@
   publish = "dist"
 
 [build.environment]
-  NODE_VERSION = "18"
+  NODE_VERSION = "20.19.0"
   VITE_API_URL = "https://s72-gaurav-capstone-kampuskart.onrender.com"
   VITE_SOCKET_URL = "https://s72-gaurav-capstone-kampuskart.onrender.com"
 
